@@ -1,0 +1,51 @@
+.unique-background {
+    background-color: #222831;
+    height: 100vh;
+    color: white;
+}
+
+#intro {
+    background-color: #393E46;
+    color: white;
+}
+
+.rare-background {
+    background-color: #BDCDD6;
+}
+
+.contact-background, .footer {
+    background-color: #EEEEEE;
+}
+
+.feature-icon {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.contact {
+    font-size: large;
+}
+
+.river {
+    height: 1
+}
+
+.me {
+    border-radius: 50%;
+}
+
+.skills {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div {
+    display: block;
+}
+
+
